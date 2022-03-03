@@ -1,0 +1,5 @@
+# Node modules
+node_modules
+# Config Files 
+# Uncomment this (#config.json => config.json)
+#config.json

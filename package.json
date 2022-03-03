@@ -1,0 +1,27 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "A easy to use bot template!",
+  "main": "index.js",
+  "scripts": {
+    "test": "teststuff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtlePaw/bot-template.git"
+  },
+  "keywords": [
+    "bot-template"
+  ],
+  "author": "Turtlepaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtlePaw/bot-template/issues"
+  },
+  "homepage": "https://github.com/TurtlePaw/bot-template#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "discord.js": "^13.6.0",
+    "discordjsh": "^2.1.5"
+  }
+}
